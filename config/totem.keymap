@@ -108,7 +108,7 @@ label= "NAVI"                              ;
                 &kp LBKT    &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp RBKT        &trans      &trans      &trans       &trans      &trans 
         &mt LGUI GRAVE &mt LALT KP_N4 &mt LCTRL KP_N5 &mt LSHFT KP_N6 &kp BSLH  &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &trans
     &trans      &kp DEL     &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp EQUAL       &trans      &trans      &trans      &trans      &trans        &trans      
-                                        &KP KP_N0   &kp MINUS   &KP SPACE       &trans      &trans      &trans      
+                                        &kp KP_N0   &kp MINUS   &kp SPACE       &trans      &trans      &trans      
                         >;
                 };
 
@@ -134,7 +134,7 @@ label= "SYM"                               ;
                 &kp LBKT    &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp RBKT        &trans      &trans      &trans       &trans      &trans 
                 &kp GRAVE   &kp KP_N4   &kp KP_N5   &kp KP_N6   &kp BSLH        &trans      &kp RSHFT   &kp RCTRL   &kp RALT    &kp GUI
     &trans      &kp DEL     &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp EQUAL       &trans      &trans      &trans      &trans      &trans        &trans      
-                                        &KP KP_N0   &kp MINUS   &KP SPACE       &trans      &trans      &trans      
+                                        &kp KP_N0   &kp MINUS   &kp SPACE       &trans      &trans      &trans      
                         >;
                 };
 
